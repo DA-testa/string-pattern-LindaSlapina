@@ -11,7 +11,7 @@ def read_input():
 
     if inputLetter == "I":
         inputPattern = input().strip()
-        inputText = input().strip
+        inputText = input().strip()
         return inputLetter, inputPattern, inputText
     elif inputLetter == "F":
         fileName = 'tests/06'
